@@ -1,0 +1,32 @@
+services:
+  web:
+    image: odoo:18.0
+    depends_on:
+      - db
+    ports:
+      - "8069:8069"
+    environment:
+      HOST: db
+      USER: odoo
+      PASSWORD: odoo
+
+
+  db:
+    image: postgres:latest
+    environment:
+       POSTGRES_DB: postgres
+       POSTGRES_PASSWORD: odoo
+       POSTGRES_USER: odoo
+
+
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@pgadmin.com
+      PGADMIN_DEFAULT_PASSWORD: password
+      PGADMIN_LISTEN_PORT: 80
+    ports:
+      - "8081:80"
+    depends_on:
+      - db
