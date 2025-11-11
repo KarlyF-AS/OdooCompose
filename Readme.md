@@ -57,8 +57,7 @@ Descargue algunos modulos básicos que pedia la tarea como
  - Compras:
 ![Captura desde 2025-11-10 11-54-40.png](Captura%20desde%202025-11-10%2011-54-40.png)
  - Contactos: 
- - ![Captura desde 2025-11-10 11-53-42.png](Captura%20desde%202025-11-10%2011-53-42.png)
+![Captura desde 2025-11-10 11-53-42.png](Captura%20desde%202025-11-10%2011-53-42.png)
 
 ## Base de datos PgAdmin
-
-![Captura desde 2025-11-10 11-41-33.png](Captura%20desde%202025-11-10%2011-41-33.png)
+![Captura desde 2025-11-11 13-57-15.png](Captura%20desde%202025-11-11%2013-57-15.png)
