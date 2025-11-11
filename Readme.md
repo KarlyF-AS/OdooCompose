@@ -60,4 +60,4 @@ Descargue algunos modulos básicos que pedia la tarea como
 ![Captura desde 2025-11-10 11-53-42.png](Captura%20desde%202025-11-10%2011-53-42.png)
 
 ## Base de datos PgAdmin
-![Captura desde 2025-11-11 13-57-15.png](Captura%20desde%202025-11-11%2013-57-15.png)
+![Captura desde 2025-11-11 14-00-58.png](Captura%20desde%202025-11-11%2014-00-58.png)
